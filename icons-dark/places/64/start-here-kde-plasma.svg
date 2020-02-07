@@ -1,1 +1,13 @@
-start-here-kde.svg
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="139" x2="129" y1="102" y2="112" gradientTransform="translate(-84,-83)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m41 5-6 6 11 11-11 11 6 6 17-17z" fill="#3b3f42" />
+ <rect x="15.7" y="6" width="6.25" height="6.25" rx="3.125" fill="#fa8865"/>
+ <rect x="6" y="25.5" width="9" height="9" rx="4.5" fill="#63c605"/>
+ <rect x="19" y="45" width="13" height="13" rx="6.5" fill="#1b89f3"/>
+ <path d="m39 29 6 6 7-7-6-6z" fill="url(#a)" opacity=".9"/>
+</svg>

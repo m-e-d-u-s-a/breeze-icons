@@ -1,1 +1,21 @@
-folder-text.svg
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x2="0" y1="58" y2="16" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3daee9" offset="0"/>
+   <stop stop-color="#6cc1ef" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m60 33v-23h-28l-4-4-24 1.1e-4v27z" fill="#147eb8"/>
+ <path d="m22 20h-19v38h58v-42h-35z" fill="url(#a)"/>
+ <g fill-opacity=".24">
+  <g fill="#fff">
+   <path d="m31 11h29v-1h-28l-4-4z"/>
+   <path d="m3 20v1h20s3-5 3-5l-4 4h-19"/>
+  </g>
+  <g>
+   <path d="m3 57v1h58v-1h-58"/>
+   <path d="m4 19v1h18l4-4-6 3h-16"/>
+  </g>
+ </g>
+ <path d="m22 28v1h20v-1zm0 2v1h13v-1zm0 2v1h16v-1zm0 2v1h20v-1zm0 2v1h10v-1zm0 2v1h20v-1zm0 2v1h17v-1zm0 2v1h10v-1zm0 2v1h20v-1zm0 2v1h14v-1z" fill="#1272a5"/>
+</svg>

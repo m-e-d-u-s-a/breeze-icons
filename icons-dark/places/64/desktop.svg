@@ -1,1 +1,38 @@
-user-desktop.svg
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="418.2" x2="384.6" y1="503.1" y2="531.5" gradientTransform="matrix(1.21 0 0 1.6 -461.7 -794.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1abc9c" offset="0"/>
+   <stop stop-color="#2980b9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="404" x2="430.7" y1="521.6" y2="528.4" gradientTransform="matrix(1.21,0,0,1.6,-461.7,-794.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cc4a5e" offset="0"/>
+   <stop stop-color="#aa478a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="398.1" x2="394" y1="542.2" y2="524.9" gradientTransform="matrix(1.21,0,0,1.6,-461.7,-794.5)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#334545" offset="0"/>
+   <stop stop-color="#536161" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="431.6" x2="439.6" y1="569" y2="563" gradientTransform="matrix(-1.21,0,0,1.6,552,-858)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="406.5" x2="423.3" y1="582.1" y2="572.9" gradientTransform="matrix(-1.21,0,0,1.6,552,-858)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="f" x1="423.1" x2="431.2" y1="572.5" y2="567" gradientTransform="matrix(-1.21,0,0,1.6,552,-858)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="431.3" x2="440.6" y1="577.3" y2="571.6" gradientTransform="matrix(-1.21,0,0,1.6,552,-858)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="h" x1="430.6" x2="423.7" y1="577.6" y2="591.5" gradientTransform="matrix(-1.21,0,0,1.6,552,-858)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <path d="m2.867 6.111v52.01h57.99v-52.01z" fill="url(#b)"/>
+ <path d="m60.86 6.111-39.91 30.3 28.57 21.7h11.33z" fill="url(#c)"/>
+ <path d="m20.99 36.31-18.12 13.76v8.053h46.93l-28.81-21.81z" fill="url(#i)"/>
+ <path d="m30.9 43.86-9.977-7.576v15.15z" fill="url(#d)"/>
+ <path d="m40.94 51.46v6.664h8.772z" fill="url(#e)"/>
+ <path d="m30.99 43.89v14.24h1.207l8.769-6.66z" fill="url(#f)"/>
+ <path d="m20.99 51.46v6.66h8.769z" fill="url(#g)"/>
+ <path d="m40.94 51.46-8.772 6.664h8.772z" fill="url(#h)"/>
+ <path d="m20.88 36.39 39.9-30.3-2.4e-5 14.8z" fill="#aa478a"/>
+ <path d="m2.867 54.12v4h58v-4z" fill="#fff" fill-opacity=".78"/>
+ <path d="m52.49 54.96c-0.103 0.07131-0.2378 0.1453-0.3514 0.1955l0.04759 0.1876c0.09245-0.02904 0.177-0.07922 0.2801-0.1453v1.691h0.2299v-1.929h-0.2061z"/>
+ <path d="m53.14 55.09 0.07663 0.1929c0.1083-0.111 0.2695-0.1585 0.4307-0.1585 0.2193 0 0.3408 0.1216 0.3408 0.3356v0.01322c-0.0026 0.1506-0.1004 0.2985-0.251 0.465l-0.6658 0.7397 0.02904 0.2113h1.128l0.01588-0.1981h-0.896l0.5442-0.5813c0.2113-0.2272 0.3408-0.4122 0.3435-0.6554v-0.0079c0-0.317-0.2219-0.5258-0.5733-0.5258-0.251 0-0.4148 0.06872-0.5231 0.1691z"/>
+ <path d="m54.57 56.97h0.2668v-0.3012h-0.2668zm0-1.184h0.2668v-0.2985h-0.2668z"/>
+ <path d="m56.12 56.38c0 0.2351-0.1717 0.3646-0.4254 0.3646-0.1955 0-0.3302-0.0634-0.428-0.14l-0.07397 0.1876c0.07131 0.06872 0.2536 0.1479 0.5046 0.1479 0.3752 0 0.6502-0.214 0.6502-0.5575 0-0.2722-0.1506-0.4465-0.3857-0.4993 0.2088-0.0634 0.3382-0.214 0.3382-0.4624 0-0.3091-0.2668-0.4782-0.5522-0.4782-0.2668 0-0.4386 0.05815-0.5548 0.1479l0.07397 0.1876c0.103-0.08188 0.2536-0.1374 0.4307-0.1374 0.2272 0 0.354 0.09511 0.354 0.3091 0 0.3039-0.2801 0.3382-0.576 0.3382v0.1902c0.3593 0 0.6447 0.0555 0.6447 0.4016z"/>
+ <path d="m57.48 55.28v0.9724h-0.6447zm0.4359 1.16 0.01848-0.1876h-0.2378v-1.263h-0.2404l-0.848 1.253v0.1981h0.872v0.4782h0.2167v-0.4782h0.2193z"/>
+ <path d="m6.5 54.9a0.1667 0.1667 0 0 0-0.1667 0.1667 0.1667 0.1667 0 0 0 0.1667 0.1667 0.1667 0.1667 0 0 0 0.1667-0.1667 0.1667 0.1667 0 0 0-0.1667-0.1667zm0.8333 0-0.3229 0.2604 0.4323 0.5365-0.4062 0.4062 0.2969 0.2969 0.6667-0.6667-0.6667-0.8333zm-1.083 0.6667a0.25 0.25 0 0 0-0.25 0.25 0.25 0.25 0 0 0 0.25 0.25 0.25 0.25 0 0 0 0.25-0.25 0.25 0.25 0 0 0-0.25-0.25zm0.5 0.8333a0.25 0.25 0 0 0-0.25 0.25 0.25 0.25 0 0 0 0.25 0.25 0.25 0.25 0 0 0 0.25-0.25 0.25 0.25 0 0 0-0.25-0.25z" color="#000000"/>
+</svg>
